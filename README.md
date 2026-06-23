@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AnanyaRajput17/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/AnanyaRajput17/LeetCode/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/AnanyaRajput17/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
