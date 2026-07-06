@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AnanyaRajput17/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0090-subsets-ii) |
+| [1288-remove-covered-intervals](https://github.com/AnanyaRajput17/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnanyaRajput17/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnanyaRajput17/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0047-permutations-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0047-permutations-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/AnanyaRajput17/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
