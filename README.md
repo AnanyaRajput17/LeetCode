@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0060-permutation-sequence](https://github.com/AnanyaRajput17/LeetCode/tree/master/0060-permutation-sequence) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnanyaRajput17/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
