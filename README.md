@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/AnanyaRajput17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnanyaRajput17/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnanyaRajput17/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/AnanyaRajput17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnanyaRajput17/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnanyaRajput17/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnanyaRajput17/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/AnanyaRajput17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnanyaRajput17/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnanyaRajput17/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Divide and Conquer
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnanyaRajput17/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnanyaRajput17/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
