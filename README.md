@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnanyaRajput17/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnanyaRajput17/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnanyaRajput17/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnanyaRajput17/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnanyaRajput17/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnanyaRajput17/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -262,4 +265,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
