@@ -15,23 +15,10 @@
  */
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
-       ArrayList<Integer> list = new ArrayList<>();
-       inorder(root,list);
-       int sum = 0;
-       for(Integer x:list){
-        if(x>=low && x<=high){
-            sum+=x;
-        }
-       }
-       return sum;
-
-    }
-    public void  inorder (TreeNode root,ArrayList<Integer> list){
-        
-            if(root== null)return ;
-            inorder(root.left , list);
-            list.add(root.val);
-            inorder(root.right , list);
+      if(root == null) return 0;
+      if(root.val<low) return rangeSumBST(root.right , low , high);
+       if(root.val>high) return rangeSumBST(root.left , low , high);
+       return root.val + rangeSumBST(root.left , low , high) + rangeSumBST(root.right , low , high);
          
          
     }
