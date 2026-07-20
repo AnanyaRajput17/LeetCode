@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AnanyaRajput17/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AnanyaRajput17/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnanyaRajput17/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnanyaRajput17/LeetCode/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnanyaRajput17/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnanyaRajput17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnanyaRajput17/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnanyaRajput17/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AnanyaRajput17/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
