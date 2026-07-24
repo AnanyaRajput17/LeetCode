@@ -10,9 +10,9 @@ class Solution {
             size<<=1;
         }
         boolean[] two = new boolean[size];
-        Arrays.fill(two,false);
+        // Arrays.fill(two,false);
         boolean[] three = new boolean[size];
-        Arrays.fill(three,false);
+        // Arrays.fill(three,false);
         for(int i =0;i<n;i++){
             for(int j = i;j<n;j++){
                 int xor = nums[i]^nums[j];
