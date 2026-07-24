@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/AnanyaRajput17/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnanyaRajput17/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/AnanyaRajput17/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnanyaRajput17/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaRajput17/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/AnanyaRajput17/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnanyaRajput17/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnanyaRajput17/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnanyaRajput17/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnanyaRajput17/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AnanyaRajput17/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AnanyaRajput17/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnanyaRajput17/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AnanyaRajput17/LeetCode/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnanyaRajput17/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnanyaRajput17/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnanyaRajput17/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/AnanyaRajput17/LeetCode/tree/master/2608-shortest-cycle-in-a-graph) |
@@ -261,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/AnanyaRajput17/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AnanyaRajput17/LeetCode/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnanyaRajput17/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AnanyaRajput17/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -268,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/AnanyaRajput17/LeetCode/tree/master/3620-network-recovery-pathways) |
