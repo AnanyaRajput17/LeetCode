@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/AnanyaRajput17/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnanyaRajput17/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/AnanyaRajput17/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/AnanyaRajput17/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0047-permutations-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnanyaRajput17/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/AnanyaRajput17/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AnanyaRajput17/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/AnanyaRajput17/LeetCode/tree/master/0060-permutation-sequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnanyaRajput17/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaRajput17/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AnanyaRajput17/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnanyaRajput17/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
