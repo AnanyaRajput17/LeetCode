@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/AnanyaRajput17/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaRajput17/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/AnanyaRajput17/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AnanyaRajput17/LeetCode/tree/master/0721-accounts-merge) |
 | [0877-stone-game](https://github.com/AnanyaRajput17/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/AnanyaRajput17/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaRajput17/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0047-permutations-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaRajput17/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/AnanyaRajput17/LeetCode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/AnanyaRajput17/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AnanyaRajput17/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnanyaRajput17/LeetCode/tree/master/0037-sudoku-solver) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/AnanyaRajput17/LeetCode/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnanyaRajput17/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AnanyaRajput17/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0721-accounts-merge](https://github.com/AnanyaRajput17/LeetCode/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnanyaRajput17/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnanyaRajput17/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnanyaRajput17/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/AnanyaRajput17/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AnanyaRajput17/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AnanyaRajput17/LeetCode/tree/master/0721-accounts-merge) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaRajput17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -284,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/AnanyaRajput17/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AnanyaRajput17/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AnanyaRajput17/LeetCode/tree/master/0721-accounts-merge) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaRajput17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AnanyaRajput17/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -305,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/AnanyaRajput17/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AnanyaRajput17/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/AnanyaRajput17/LeetCode/tree/master/0721-accounts-merge) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnanyaRajput17/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AnanyaRajput17/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
