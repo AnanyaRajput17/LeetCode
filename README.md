@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnanyaRajput17/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaRajput17/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnanyaRajput17/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnanyaRajput17/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnanyaRajput17/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnanyaRajput17/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnanyaRajput17/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnanyaRajput17/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
