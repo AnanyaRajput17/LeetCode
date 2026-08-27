@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/AnanyaRajput17/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/AnanyaRajput17/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0213-house-robber-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/AnanyaRajput17/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/AnanyaRajput17/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/AnanyaRajput17/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AnanyaRajput17/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0213-house-robber-ii) |
