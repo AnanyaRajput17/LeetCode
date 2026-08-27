@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AnanyaRajput17/LeetCode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/AnanyaRajput17/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnanyaRajput17/LeetCode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AnanyaRajput17/LeetCode/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/AnanyaRajput17/LeetCode/tree/master/0827-making-a-large-island) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/AnanyaRajput17/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AnanyaRajput17/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AnanyaRajput17/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0213-house-robber-ii) |
