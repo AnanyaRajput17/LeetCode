@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaRajput17/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/AnanyaRajput17/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1755-closest-subsequence-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnanyaRajput17/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaRajput17/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0090-subsets-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1755-closest-subsequence-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AnanyaRajput17/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/AnanyaRajput17/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AnanyaRajput17/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaRajput17/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1755-closest-subsequence-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AnanyaRajput17/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/AnanyaRajput17/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnanyaRajput17/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1755-closest-subsequence-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/AnanyaRajput17/LeetCode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnanyaRajput17/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AnanyaRajput17/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1755-closest-subsequence-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/1755-closest-subsequence-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnanyaRajput17/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnanyaRajput17/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -473,4 +478,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0494-target-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
