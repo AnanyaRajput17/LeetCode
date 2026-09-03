@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/AnanyaRajput17/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaRajput17/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AnanyaRajput17/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0474-ones-and-zeroes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/AnanyaRajput17/LeetCode/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AnanyaRajput17/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnanyaRajput17/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/AnanyaRajput17/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/AnanyaRajput17/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaRajput17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -478,11 +481,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0494-target-sum) |
 ## Meet in the Middle
 |  |
