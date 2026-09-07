@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnanyaRajput17/LeetCode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/AnanyaRajput17/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/AnanyaRajput17/LeetCode/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/AnanyaRajput17/LeetCode/tree/master/0486-predict-the-winner) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnanyaRajput17/LeetCode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/AnanyaRajput17/LeetCode/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/AnanyaRajput17/LeetCode/tree/master/0486-predict-the-winner) |
 ## Stack
@@ -515,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0322-coin-change](https://github.com/AnanyaRajput17/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0518-coin-change-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AnanyaRajput17/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
