@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/AnanyaRajput17/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AnanyaRajput17/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/AnanyaRajput17/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AnanyaRajput17/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/AnanyaRajput17/LeetCode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/AnanyaRajput17/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/AnanyaRajput17/LeetCode/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/AnanyaRajput17/LeetCode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/AnanyaRajput17/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaRajput17/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnanyaRajput17/LeetCode/tree/master/0877-stone-game) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/AnanyaRajput17/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AnanyaRajput17/LeetCode/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/AnanyaRajput17/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AnanyaRajput17/LeetCode/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AnanyaRajput17/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AnanyaRajput17/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AnanyaRajput17/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AnanyaRajput17/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0518-coin-change-ii) |
 ## Linked List
