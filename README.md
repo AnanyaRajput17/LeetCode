@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnanyaRajput17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/AnanyaRajput17/LeetCode/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/AnanyaRajput17/LeetCode/tree/master/0827-making-a-large-island) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AnanyaRajput17/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0877-stone-game](https://github.com/AnanyaRajput17/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/AnanyaRajput17/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaRajput17/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AnanyaRajput17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AnanyaRajput17/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AnanyaRajput17/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AnanyaRajput17/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnanyaRajput17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AnanyaRajput17/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AnanyaRajput17/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AnanyaRajput17/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaRajput17/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AnanyaRajput17/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaRajput17/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/AnanyaRajput17/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaRajput17/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnanyaRajput17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AnanyaRajput17/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -556,4 +561,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnanyaRajput17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AnanyaRajput17/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AnanyaRajput17/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
