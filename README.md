@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AnanyaRajput17/LeetCode/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/AnanyaRajput17/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/AnanyaRajput17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/AnanyaRajput17/LeetCode/tree/master/0721-accounts-merge) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AnanyaRajput17/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/AnanyaRajput17/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0449-serialize-and-deserialize-bst](https://github.com/AnanyaRajput17/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0474-ones-and-zeroes](https://github.com/AnanyaRajput17/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AnanyaRajput17/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AnanyaRajput17/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AnanyaRajput17/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Rolling Hash
