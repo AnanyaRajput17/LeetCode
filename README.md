@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/AnanyaRajput17/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AnanyaRajput17/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AnanyaRajput17/LeetCode/tree/master/0047-permutations-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnanyaRajput17/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/AnanyaRajput17/LeetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/AnanyaRajput17/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/AnanyaRajput17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
